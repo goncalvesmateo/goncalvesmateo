@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Mon nom est Matéo et je suis étudiant au Lycée polyvalent Algoud-Laffemas</h2>
+<h2 align="left">Salut 👋! Mon nom est Matéo et je suis étudiant au Lycée polyvalent Algoud-Laffemas</h2>
 
 ###
 
